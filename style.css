@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+#learn {
+  text-color: white;
+  text-align: center;
+}
+
+p {
+ font-size: 21px;
+ line-height: 1.5;
+}
